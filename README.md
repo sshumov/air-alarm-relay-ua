@@ -91,5 +91,4 @@ In case the check for air alarm is enabled in the settings:
 - if, for some reason, there is no access to the alarm API - deactivate the relay 
 - if there is no alarm and the relay is active at that hour - switch it on
 
-*** Translated with www.DeepL.com/Translator (free version) ***
 
